@@ -33,8 +33,8 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git config --global user.name "Noël"
-          git config --global user.emai "noel@github.com"
+          git config --global user.name "nhattu1986"
+          git config --global user.emai "nhattu1986@github.com"
           git add README.md codes.txt
           git commit -m "Updated stats" || exit 0
           git push
