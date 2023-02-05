@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>652</td>
+    <td>657</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>838</td>
+    <td>839</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>257</td>
+    <td>258</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1910</td>
+    <td>1920</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -71,15 +71,15 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>381</td>
+    <td>382</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>148</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>84</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1203</td>
+    <td>1204</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>860 (rate -83)</td>
+    <td>969 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1013694 (rate -83)</td>
+    <td>1220150 (rate -79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 240 (28%)<br />Daily Activity: 240 (28%)<br />Quests: 170 (20%)<br />Adventure:
-      120 (14%)<br />Mail: 70 (8%)<br />Other: 20 (2%)<br />Spiral Abyss: 0
+      Daily Activity: 300 (31%)<br />Events: 240 (25%)<br />Quests: 170 (18%)<br />Adventure:
+      129 (13%)<br />Mail: 110 (11%)<br />Other: 20 (2%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
