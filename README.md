@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>657</td>
+    <td>658</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>839</td>
+    <td>840</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1920</td>
+    <td>1922</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -287,18 +287,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>969 (rate -81)</td>
+    <td>1056 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1220150 (rate -79)</td>
+    <td>1281065 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 300 (31%)<br />Events: 240 (25%)<br />Quests: 170 (18%)<br />Adventure:
-      129 (13%)<br />Mail: 110 (11%)<br />Other: 20 (2%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Daily Activity: 300 (29%)<br />Events: 240 (23%)<br />Adventure: 216
+      (21%)<br />Quests: 170 (16%)<br />Mail: 110 (10%)<br />Other: 20 (1%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
