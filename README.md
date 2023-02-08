@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>660</td>
+    <td>663</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>841</td>
+    <td>842</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>130</td>
+    <td>133</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1938</td>
+    <td>1954</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1338</td>
+    <td>1339</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>384</td>
+    <td>385</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>86</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>46.0%</td>
+          <td>47.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1116 (rate -78)</td>
+    <td>1306 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1380340 (rate -76)</td>
+    <td>1678222 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 360 (33%)<br />Events: 240 (22%)<br />Adventure: 216
-      (20%)<br />Quests: 170 (15%)<br />Mail: 110 (9%)<br />Other: 20 (1%)<br />Spiral
+      Daily Activity: 420 (33%)<br />Events: 280 (22%)<br />Adventure: 276
+      (21%)<br />Quests: 200 (15%)<br />Mail: 110 (8%)<br />Other: 20 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
