@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>844</td>
+    <td>845</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1954</td>
+    <td>1955</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1391 (rate -72)</td>
+    <td>1693 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1796656 (rate -69)</td>
+    <td>2048791 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 480 (35%)<br />Adventure: 301 (22%)<br />Events: 280
-      (21%)<br />Quests: 200 (14%)<br />Mail: 110 (7%)<br />Other: 20 (1%)<br />Spiral
+      Daily Activity: 540 (32%)<br />Events: 520 (31%)<br />Adventure: 301
+      (18%)<br />Quests: 200 (12%)<br />Mail: 110 (6%)<br />Other: 22 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -425,7 +425,7 @@
           <td>Artifacts</td>
           <td>
             3 x Tenacity of the Millelith<br />1 x Heart of Depth<br />1 x
-            Gilded Dreams<br />
+            Ocean-Hued Clam<br />
           </td>
         </tr>
         <tr>
@@ -1098,8 +1098,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Wanderer's Troupe<br />1 x Blizzard Strayer<br />1 x Gladiator's
-            Finale<br />1 x Ocean-Hued Clam<br />
+            2 x Gilded Dreams<br />2 x Wanderer's Troupe<br />1 x Gladiator's
+            Finale<br />
           </td>
         </tr>
         <tr>
@@ -2372,7 +2372,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Gilded Dreams<br />1 x Gladiator's Finale<br />1 x Retracing
+            1 x Wanderer's Troupe<br />1 x Gladiator's Finale<br />1 x Retracing
             Bolide<br />
           </td>
         </tr>
