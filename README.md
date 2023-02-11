@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>845</td>
+    <td>846</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,21 +283,68 @@
     <td>23</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>63</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>12-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1693 (rate -66)</td>
+    <td>1753 (rate -65)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2048791 (rate -65)</td>
+    <td>2497689 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 540 (32%)<br />Events: 520 (31%)<br />Adventure: 301
-      (18%)<br />Quests: 200 (12%)<br />Mail: 110 (6%)<br />Other: 22 (1%)<br />Spiral
+      Daily Activity: 600 (35%)<br />Events: 520 (30%)<br />Adventure: 301
+      (17%)<br />Quests: 200 (11%)<br />Mail: 110 (6%)<br />Other: 22 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2749,7 +2796,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>A Sobriquet Under Shade</td>
         </tr>
       </table>
     </td>
