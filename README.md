@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -307,45 +307,102 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+        ,
+        height="18"
+      />
+      Keqing (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (9)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (45)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (275946)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      Nilou (111989)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      Nilou (19)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (81)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1753 (rate -65)</td>
+    <td>2436 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2497689 (rate -58)</td>
+    <td>2943864 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (35%)<br />Events: 520 (30%)<br />Adventure: 301
-      (17%)<br />Quests: 200 (11%)<br />Mail: 110 (6%)<br />Other: 22 (1%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Daily Activity: 660 (28%)<br />Spiral Abyss: 600 (25%)<br />Events: 520
+      (21%)<br />Adventure: 301 (12%)<br />Quests: 200 (8%)<br />Mail: 130
+      (5%)<br />Other: 25 (1%)<br />
     </td>
   </tr>
 </table>
@@ -516,7 +573,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
         />
       </p>
     </td>
@@ -558,7 +615,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amos' Bow</td>
+          <td>Skyward Harp</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1643,7 +1700,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
         />
       </p>
     </td>
@@ -1688,7 +1745,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Skyward Harp</td>
+          <td>Amos' Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2049,7 +2106,7 @@
           <td>Artifacts</td>
           <td>
             1 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
-            Viridescent Venerer<br />2 x Emblem of Severed Fate<br />
+            Shimenawa's Reminiscence<br />2 x Emblem of Severed Fate<br />
           </td>
         </tr>
         <tr>
@@ -2494,10 +2551,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            3 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />1 x
-            Wanderer's Troupe<br />
-          </td>
+          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3531,7 +3585,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x Berserker<br /></td>
+          <td>4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
