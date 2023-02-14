@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>846</td>
+    <td>847</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,21 +309,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Keqing (9)<br /><img
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      Nilou (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2436 (rate -52)</td>
+    <td>2496 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2943864 (rate -50)</td>
+    <td>3020456 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 660 (28%)<br />Spiral Abyss: 600 (25%)<br />Events: 520
-      (21%)<br />Adventure: 301 (12%)<br />Quests: 200 (8%)<br />Mail: 130
+      Daily Activity: 720 (29%)<br />Spiral Abyss: 600 (25%)<br />Events: 520
+      (20%)<br />Adventure: 301 (12%)<br />Quests: 200 (8%)<br />Mail: 130
       (5%)<br />Other: 25 (1%)<br />
     </td>
   </tr>
