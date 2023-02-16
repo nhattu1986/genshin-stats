@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>847</td>
+    <td>849</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>43</td>
+    <td>41</td>
   </tr>
 </table>
 
@@ -319,16 +319,16 @@
         height="18"
       />
       Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      Nilou (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
-        ,
-        height="18"
-      />
-      Keqing (9)<br />
+      Nilou (9)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2556 (rate -50)</td>
+    <td>2616 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3083165 (rate -48)</td>
+    <td>3161975 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (31%)<br />Spiral Abyss: 600 (24%)<br />Events: 520
-      (21%)<br />Adventure: 301 (12%)<br />Quests: 200 (7%)<br />Mail: 130
-      (5%)<br />Other: 25 (0%)<br />
+      Daily Activity: 840 (33%)<br />Spiral Abyss: 600 (23%)<br />Events: 520
+      (20%)<br />Adventure: 301 (12%)<br />Quests: 200 (8%)<br />Mail: 130
+      (4%)<br />Other: 25 (0%)<br />
     </td>
   </tr>
 </table>
