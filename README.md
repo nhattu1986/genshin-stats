@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>663</td>
+    <td>670</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>849</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>258</td>
+    <td>263</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>133</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1955</td>
+    <td>1981</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1339</td>
+    <td>1347</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>385</td>
+    <td>389</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,11 +79,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>88</td>
+    <td>92</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>47.0%</td>
+          <td>51.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -287,15 +287,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>63</td>
+    <td>64</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>20</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -309,37 +309,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+      Nahida (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Nilou (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+      Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Keqing (9)<br />
+      Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (13)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (45)<br />
+      Raiden Shogun (57)<br />
     </td>
   </tr>
   <tr>
@@ -350,29 +350,29 @@
         ,
         height="18"
       />
-      Raiden Shogun (275946)<br />
+      Raiden Shogun (475890)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nilou (111989)<br />
+      Nahida (104372)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nilou (19)<br />
+      Nahida (52)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Yae Miko (81)<br />
+      Yae Miko (108)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2676 (rate -47)</td>
+    <td>3874 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3216829 (rate -46)</td>
+    <td>4282160 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (34%)<br />Spiral Abyss: 600 (23%)<br />Events: 520
-      (20%)<br />Adventure: 301 (12%)<br />Quests: 200 (7%)<br />Mail: 130
-      (4%)<br />Other: 25 (0%)<br />
+      Spiral Abyss: 1200 (31%)<br />Daily Activity: 1020 (27%)<br />Events: 520
+      (14%)<br />Mail: 430 (11%)<br />Adventure: 375 (9%)<br />Quests: 280
+      (7%)<br />Other: 49 (1%)<br />
     </td>
   </tr>
 </table>
@@ -451,10 +451,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Blizzard Strayer<br />2 x Shimenawa's Reminiscence<br />1 x
-            Heart of Depth<br />
-          </td>
+          <td>4 x Blizzard Strayer<br />1 x Shimenawa's Reminiscence<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -527,10 +524,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            3 x Tenacity of the Millelith<br />1 x Heart of Depth<br />1 x
-            Ocean-Hued Clam<br />
-          </td>
+          <td>3 x Tenacity of the Millelith<br />2 x Archaic Petra<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -573,7 +567,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
         />
       </p>
     </td>
@@ -603,7 +597,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Blizzard Strayer<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Heart of Depth<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -615,7 +609,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Skyward Harp</td>
+          <td>Amos' Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -750,8 +744,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Shimenawa's Reminiscence<br />2 x Emblem of Severed Fate<br />1
-            x Viridescent Venerer<br />1 x Wanderer's Troupe<br />
+            4 x Shimenawa's Reminiscence<br />1 x Tenacity of the Millelith<br />
           </td>
         </tr>
         <tr>
@@ -826,7 +819,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            4 x Shimenawa's Reminiscence<br />1 x Crimson Witch of Flames<br />
+            4 x Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />
           </td>
         </tr>
         <tr>
@@ -1049,10 +1042,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Tenacity of the Millelith<br />1 x Archaic Petra<br />2 x Heart
-            of Depth<br />
-          </td>
+          <td>3 x Heart of Depth<br />2 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1126,7 +1116,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Gladiator's Finale<br />2 x Tenacity of the Millelith<br />2 x
+            2 x Gilded Dreams<br />1 x Tenacity of the Millelith<br />2 x
             Wanderer's Troupe<br />
           </td>
         </tr>
@@ -1201,10 +1191,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Gilded Dreams<br />2 x Wanderer's Troupe<br />1 x Gladiator's
-            Finale<br />
-          </td>
+          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1278,8 +1265,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Archaic Petra<br />1 x Blizzard Strayer<br />2 x Gilded
-            Dreams<br />1 x Emblem of Severed Fate<br />
+            2 x Ocean-Hued Clam<br />1 x Viridescent Venerer<br />1 x Emblem of
+            Severed Fate<br />1 x Wanderer's Troupe<br />
           </td>
         </tr>
         <tr>
@@ -1354,8 +1341,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Heart of Depth<br />2 x Emblem of Severed Fate<br />1 x Tenacity
-            of the Millelith<br />1 x Wanderer's Troupe<br />
+            4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
           </td>
         </tr>
         <tr>
@@ -1430,8 +1416,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Shimenawa's Reminiscence<br />2 x Archaic Petra<br />1 x Emblem
-            of Severed Fate<br />
+            1 x Shimenawa's Reminiscence<br />2 x Emblem of Severed Fate<br />2
+            x Archaic Petra<br />
           </td>
         </tr>
         <tr>
@@ -1655,8 +1641,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            3 x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />1 x
-            Thundersoother<br />
+            2 x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />1 x
+            Thundersoother<br />1 x Wanderer's Troupe<br />
           </td>
         </tr>
         <tr>
@@ -1700,7 +1686,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
         />
       </p>
     </td>
@@ -1731,8 +1717,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            3 x Emblem of Severed Fate<br />1 x Shimenawa's Reminiscence<br />1
-            x Crimson Witch of Flames<br />
+            4 x Emblem of Severed Fate<br />1 x Crimson Witch of Flames<br />
           </td>
         </tr>
         <tr>
@@ -1745,7 +1730,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Amos' Bow</td>
+          <td>Skyward Harp</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1880,8 +1865,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Wanderer's Troupe<br />1 x Archaic Petra<br />1 x Thundering
-            Fury<br />1 x Heart of Depth<br />
+            1 x Wanderer's Troupe<br />1 x Archaic Petra<br />1 x Thundering
+            Fury<br />1 x Heart of Depth<br />1 x Blizzard Strayer<br />
           </td>
         </tr>
         <tr>
@@ -2031,7 +2016,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>2 x Emblem of Severed Fate<br />1 x Archaic Petra<br /></td>
+          <td>2 x Emblem of Severed Fate<br />1 x Gilded Dreams<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2181,8 +2166,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Emblem of Severed Fate<br />2 x Gladiator's Finale<br />1 x
-            Tenacity of the Millelith<br />
+            1 x Emblem of Severed Fate<br />2 x Gladiator's Finale<br />1 x
+            Archaic Petra<br />1 x Tenacity of the Millelith<br />
           </td>
         </tr>
         <tr>
@@ -2256,7 +2241,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Ocean-Hued Clam<br />1 x Blizzard Strayer<br /></td>
+          <td>
+            1 x Archaic Petra<br />2 x Blizzard Strayer<br />2 x Ocean-Hued
+            Clam<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2329,7 +2317,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Blizzard Strayer<br />1 x Wanderer's Troupe<br /></td>
+          <td>
+            2 x Blizzard Strayer<br />2 x Gladiator's Finale<br />1 x Wanderer's
+            Troupe<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2402,7 +2393,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+          <td>
+            1 x Deepwood Memories<br />2 x Wanderer's Troupe<br />1 x
+            Gladiator's Finale<br />1 x Gilded Dreams<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2521,7 +2515,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Intro.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
         />
       </p>
     </td>
@@ -2563,7 +2557,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Magic Guide</td>
+          <td>Thrilling Tales of Dragon Slayers</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2575,7 +2569,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2920,8 +2914,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Wanderer's Troupe<br />2 x Gladiator's Finale<br />1 x Blizzard
-            Strayer<br />1 x Archaic Petra<br />
+            2 x Wanderer's Troupe<br />2 x Gladiator's Finale<br />1 x Heart of
+            Depth<br />
           </td>
         </tr>
         <tr>
@@ -3585,7 +3579,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br /></td>
+          <td>
+            1 x Tenacity of the Millelith<br />3 x Emblem of Severed Fate<br />1
+            x Gladiator's Finale<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3659,8 +3656,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Thundering Fury<br />2 x Gladiator's Finale<br />1 x Shimenawa's
-            Reminiscence<br />1 x Archaic Petra<br />
+            1 x Thundering Fury<br />2 x Gladiator's Finale<br />1 x Crimson
+            Witch of Flames<br />1 x Archaic Petra<br />
           </td>
         </tr>
         <tr>
