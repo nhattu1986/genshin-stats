@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3874 (rate -24)</td>
+    <td>4638 (rate -9)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4282160 (rate -28)</td>
+    <td>4653765 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (31%)<br />Daily Activity: 1020 (27%)<br />Events: 520
-      (14%)<br />Mail: 430 (11%)<br />Adventure: 375 (9%)<br />Quests: 280
-      (7%)<br />Other: 49 (1%)<br />
+      Spiral Abyss: 1200 (26%)<br />Daily Activity: 1020 (22%)<br />Events: 880
+      (19%)<br />Adventure: 556 (12%)<br />Mail: 450 (10%)<br />Quests: 420
+      (9%)<br />Other: 112 (2%)<br />
     </td>
   </tr>
 </table>
@@ -743,9 +743,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            4 x Shimenawa's Reminiscence<br />1 x Tenacity of the Millelith<br />
-          </td>
+          <td>4 x Shimenawa's Reminiscence<br />1 x Gilded Dreams<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1116,7 +1114,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Gilded Dreams<br />1 x Tenacity of the Millelith<br />2 x
+            1 x Gladiator's Finale<br />2 x Tenacity of the Millelith<br />2 x
             Wanderer's Troupe<br />
           </td>
         </tr>
@@ -1191,7 +1189,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+          <td>
+            2 x Gilded Dreams<br />2 x Wanderer's Troupe<br />1 x Gladiator's
+            Finale<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1265,8 +1266,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Ocean-Hued Clam<br />1 x Viridescent Venerer<br />1 x Emblem of
-            Severed Fate<br />1 x Wanderer's Troupe<br />
+            1 x Deepwood Memories<br />2 x Gilded Dreams<br />2 x Wanderer's
+            Troupe<br />
           </td>
         </tr>
         <tr>
@@ -2166,8 +2167,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Emblem of Severed Fate<br />2 x Gladiator's Finale<br />1 x
-            Archaic Petra<br />1 x Tenacity of the Millelith<br />
+            2 x Emblem of Severed Fate<br />2 x Gladiator's Finale<br />1 x
+            Tenacity of the Millelith<br />
           </td>
         </tr>
         <tr>
@@ -2377,7 +2378,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Dendro</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2393,10 +2394,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Deepwood Memories<br />2 x Wanderer's Troupe<br />1 x
-            Gladiator's Finale<br />1 x Gilded Dreams<br />
-          </td>
+          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
