@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5279 (rate 3)</td>
+    <td>5665 (rate 10)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5190899 (rate -13)</td>
+    <td>5553448 (rate -7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (23%)<br />Daily Activity: 1080 (21%)<br />Adventure:
-      907 (18%)<br />Events: 880 (16%)<br />Quests: 650 (12%)<br />Mail: 450
-      (8%)<br />Other: 112 (2%)<br />
+      Spiral Abyss: 1200 (22%)<br />Adventure: 1193 (22%)<br />Daily Activity:
+      1140 (21%)<br />Events: 880 (15%)<br />Quests: 690 (12%)<br />Mail: 450
+      (7%)<br />Other: 112 (1%)<br />
     </td>
   </tr>
 </table>
@@ -3991,7 +3991,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
         />
       </p>
     </td>
@@ -4033,11 +4033,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Light of Foliar Incision</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
