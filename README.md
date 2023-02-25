@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>700</td>
+    <td>701</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>279</td>
+    <td>280</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>189</td>
+    <td>190</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2101</td>
+    <td>2103</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1397</td>
+    <td>1398</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>66.0%</td>
+          <td>67.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6891 (rate 34)</td>
+    <td>6942 (rate 35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7047999 (rate 18)</td>
+    <td>7176219 (rate 20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1887 (28%)<br />Daily Activity: 1320 (20%)<br />Spiral Abyss:
-      1200 (18%)<br />Quests: 1030 (15%)<br />Events: 880 (12%)<br />Mail: 450
-      (6%)<br />Other: 124 (1%)<br />
+      Adventure: 1906 (28%)<br />Daily Activity: 1320 (20%)<br />Spiral Abyss:
+      1200 (18%)<br />Quests: 1060 (15%)<br />Events: 880 (12%)<br />Mail: 450
+      (6%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
 </table>
