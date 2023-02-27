@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>701</td>
+    <td>703</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2103</td>
+    <td>2104</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>114</td>
+    <td>116</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1204</td>
+    <td>1205</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -314,16 +314,16 @@
         height="18"
       />
       Nahida (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7042 (rate 37)</td>
+    <td>7579 (rate 47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7250771 (rate 21)</td>
+    <td>7695075 (rate 28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1906 (28%)<br />Daily Activity: 1380 (20%)<br />Spiral Abyss:
-      1200 (18%)<br />Quests: 1060 (15%)<br />Events: 880 (12%)<br />Mail: 490
+      Adventure: 1933 (26%)<br />Daily Activity: 1380 (19%)<br />Events: 1280
+      (17%)<br />Spiral Abyss: 1200 (16%)<br />Quests: 1170 (15%)<br />Mail: 490
       (6%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
