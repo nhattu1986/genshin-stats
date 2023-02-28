@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>859</td>
+    <td>860</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2104</td>
+    <td>2110</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -71,11 +71,11 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>416</td>
+    <td>417</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>159</td>
+    <td>160</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -314,16 +314,16 @@
         height="18"
       />
       Nahida (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -391,16 +391,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7579 (rate 47)</td>
+    <td>7671 (rate 49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7695075 (rate 28)</td>
+    <td>7805790 (rate 30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1933 (26%)<br />Daily Activity: 1380 (19%)<br />Events: 1280
+      Adventure: 1965 (26%)<br />Daily Activity: 1440 (19%)<br />Events: 1280
       (17%)<br />Spiral Abyss: 1200 (16%)<br />Quests: 1170 (15%)<br />Mail: 490
       (6%)<br />Other: 126 (1%)<br />
     </td>
@@ -2090,10 +2090,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
-            Shimenawa's Reminiscence<br />2 x Emblem of Severed Fate<br />
-          </td>
+          <td>4 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2543,7 +2540,11 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+          <td>
+            1 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
+            Shimenawa's Reminiscence<br />1 x Wanderer's Troupe<br />1 x
+            Viridescent Venerer<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3212,7 +3213,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Deepwood Memories<br /></td>
+          <td>
+            3 x Viridescent Venerer<br />1 x Deepwood Memories<br />1 x Emblem
+            of Severed Fate<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
