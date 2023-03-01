@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>703</td>
+    <td>705</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>860</td>
+    <td>862</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>280</td>
+    <td>282</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>190</td>
+    <td>196</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2110</td>
+    <td>2119</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1398</td>
+    <td>1401</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>67.0%</td>
+          <td>68.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7671 (rate 49)</td>
+    <td>873 (rate -88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7805790 (rate 30)</td>
+    <td>297836 (rate -96)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1965 (26%)<br />Daily Activity: 1440 (19%)<br />Events: 1280
-      (17%)<br />Spiral Abyss: 1200 (16%)<br />Quests: 1170 (15%)<br />Mail: 490
-      (6%)<br />Other: 126 (1%)<br />
+      Mail: 600 (69%)<br />Adventure: 113 (13%)<br />Quests: 100 (12%)<br />Daily
+      Activity: 60 (6%)<br />Events: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
