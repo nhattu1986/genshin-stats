@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>710</td>
+    <td>711</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>864</td>
+    <td>865</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>210</td>
+    <td>211</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2146</td>
+    <td>2149</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1407</td>
+    <td>1408</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>428</td>
+    <td>430</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1579 (rate -79)</td>
+    <td>1725 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1110177 (rate -85)</td>
+    <td>1270928 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 600 (38%)<br />Adventure: 447 (29%)<br />Quests: 290 (18%)<br />Daily
-      Activity: 240 (15%)<br />Other: 2 (0%)<br />Events: 0 (0%)<br />Spiral
+      Mail: 620 (36%)<br />Adventure: 483 (29%)<br />Daily Activity: 300
+      (18%)<br />Quests: 290 (16%)<br />Events: 30 (1%)<br />Other: 2 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2082,7 +2082,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
