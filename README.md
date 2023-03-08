@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>867</td>
+    <td>869</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2152</td>
+    <td>2157</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>122</td>
+    <td>123</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.0%</td>
+          <td>73.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1942 (rate -74)</td>
+    <td>2017 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1838753 (rate -76)</td>
+    <td>1992563 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 620 (32%)<br />Adventure: 519 (27%)<br />Daily Activity: 420
-      (22%)<br />Quests: 350 (18%)<br />Events: 30 (1%)<br />Other: 3 (0%)<br />Spiral
+      Mail: 620 (31%)<br />Adventure: 534 (27%)<br />Daily Activity: 480
+      (24%)<br />Quests: 350 (17%)<br />Events: 30 (1%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2411,7 +2411,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
