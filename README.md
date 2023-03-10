@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -307,44 +307,101 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (47)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (100925)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (108991)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (27)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (109)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2747 (rate -64)</td>
+    <td>2814 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2656907 (rate -65)</td>
+    <td>2789823 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 650 (24%)<br />Spiral Abyss: 600 (22%)<br />Daily Activity: 540
-      (20%)<br />Adventure: 534 (20%)<br />Quests: 350 (12%)<br />Events: 70
+      Mail: 650 (24%)<br />Daily Activity: 600 (22%)<br />Spiral Abyss: 600
+      (21%)<br />Adventure: 541 (19%)<br />Quests: 350 (12%)<br />Events: 70
       (2%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
@@ -1132,10 +1189,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Gilded Dreams<br />2 x Wanderer's Troupe<br />1 x Gladiator's
-            Finale<br />
-          </td>
+          <td>4 x Deepwood Memories<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1208,10 +1262,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Deepwood Memories<br />2 x Gilded Dreams<br />2 x Wanderer's
-            Troupe<br />
-          </td>
+          <td>2 x Gilded Dreams<br />2 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1585,7 +1636,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />1 x
+            1 x Gladiator's Finale<br />1 x Shimenawa's Reminiscence<br />2 x
             Thundersoother<br />1 x Wanderer's Troupe<br />
           </td>
         </tr>
@@ -1765,6 +1816,82 @@
     </td>
   </tr>
 </table>
+<h3>Shenhe</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>9</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Retracing Bolide<br />2 x Shimenawa's Reminiscence<br />2 x
+            Vermillion Hereafter<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Spine</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Albedo</h3>
 <table>
   <tr>
@@ -1836,82 +1963,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Shenhe</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>8</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            1 x Retracing Bolide<br />2 x Shimenawa's Reminiscence<br />2 x
-            Vermillion Hereafter<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Spine</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2304,7 +2355,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
         />
       </p>
     </td>
@@ -2334,7 +2385,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2346,7 +2397,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Light of Foliar Incision</td>
+          <td>Primordial Jade Cutter</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2407,7 +2458,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
+          <td>
+            1 x Deepwood Memories<br />1 x Wanderer's Troupe<br />1 x
+            Gladiator's Finale<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2707,8 +2761,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />1 x
-            Bloodstained Chivalry<br />1 x Thundersoother<br />
+            2 x Shimenawa's Reminiscence<br />2 x Gladiator's Finale<br />1 x
+            Bloodstained Chivalry<br />
           </td>
         </tr>
         <tr>
@@ -3199,7 +3253,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
         />
       </p>
     </td>
@@ -3244,7 +3298,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Cutter</td>
+          <td>Light of Foliar Incision</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -3956,7 +4010,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Friendship</td>
