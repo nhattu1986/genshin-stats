@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>870</td>
+    <td>871</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2157</td>
+    <td>2158</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1409</td>
+    <td>1410</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Yaoyao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (12)<br />
+      Yaoyao (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,16 +391,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2814 (rate -63)</td>
+    <td>2874 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2789823 (rate -64)</td>
+    <td>2890455 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 650 (24%)<br />Daily Activity: 600 (22%)<br />Spiral Abyss: 600
+      Daily Activity: 660 (23%)<br />Mail: 650 (23%)<br />Spiral Abyss: 600
       (21%)<br />Adventure: 541 (19%)<br />Quests: 350 (12%)<br />Events: 70
       (2%)<br />Other: 3 (0%)<br />
     </td>
