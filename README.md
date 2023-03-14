@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>873</td>
+    <td>874</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2158</td>
+    <td>2159</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (12)<br />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3075 (rate -59)</td>
+    <td>3137 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3255869 (rate -58)</td>
+    <td>3372918 (rate -56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (26%)<br />Mail: 670 (22%)<br />Spiral Abyss: 600
-      (20%)<br />Adventure: 541 (17%)<br />Quests: 350 (11%)<br />Events: 130
+      Daily Activity: 840 (27%)<br />Mail: 670 (22%)<br />Spiral Abyss: 600
+      (19%)<br />Adventure: 543 (17%)<br />Quests: 350 (11%)<br />Events: 130
       (4%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
@@ -597,7 +597,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Heart of Depth<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -670,7 +670,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Thundering Fury<br />1 x Gladiator's Finale<br /></td>
+          <td>4 x Thundering Fury<br />1 x Heart of Depth<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2459,8 +2459,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Deepwood Memories<br />1 x Wanderer's Troupe<br />1 x
-            Gladiator's Finale<br />
+            3 x Ocean-Hued Clam<br />1 x Gladiator's Finale<br />1 x Wanderer's
+            Troupe<br />
           </td>
         </tr>
         <tr>
