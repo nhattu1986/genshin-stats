@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>878</td>
+    <td>879</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3438 (rate -55)</td>
+    <td>3638 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4056240 (rate -48)</td>
+    <td>4270125 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1080 (32%)<br />Mail: 670 (20%)<br />Spiral Abyss: 600
-      (18%)<br />Adventure: 564 (16%)<br />Quests: 390 (11%)<br />Events: 130
-      (3%)<br />Other: 4 (0%)<br />
+      Daily Activity: 1140 (32%)<br />Mail: 690 (19%)<br />Spiral Abyss: 600
+      (17%)<br />Adventure: 564 (16%)<br />Quests: 390 (10%)<br />Events: 250
+      (6%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1189,7 +1189,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Wanderer's Troupe<br /></td>
+          <td>
+            1 x Retracing Bolide<br />2 x Wanderer's Troupe<br />2 x Gilded
+            Dreams<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2157,10 +2160,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Emblem of Severed Fate<br />2 x Gladiator's Finale<br />1 x
-            Tenacity of the Millelith<br />
-          </td>
+          <td>4 x Deepwood Memories<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2279,7 +2279,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
         />
       </p>
     </td>
@@ -2309,7 +2309,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
+          <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2321,7 +2321,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Primordial Jade Cutter</td>
+          <td>Light of Foliar Incision</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2458,10 +2458,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            3 x Ocean-Hued Clam<br />1 x Gladiator's Finale<br />1 x Wanderer's
-            Troupe<br />
-          </td>
+          <td>5 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3253,7 +3250,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
         />
       </p>
     </td>
@@ -3298,7 +3295,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Light of Foliar Incision</td>
+          <td>Primordial Jade Cutter</td>
         </tr>
         <tr>
           <td>Rarity</td>
