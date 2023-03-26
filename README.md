@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>721</td>
+    <td>724</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>884</td>
+    <td>886</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5134 (rate -33)</td>
+    <td>5194 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6227317 (rate -20)</td>
+    <td>6320518 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1500 (30%)<br />Events: 1140 (23%)<br />Mail: 690 (13%)<br />Adventure:
-      625 (12%)<br />Spiral Abyss: 600 (11%)<br />Quests: 570 (11%)<br />Other:
+      Daily Activity: 1560 (31%)<br />Events: 1140 (22%)<br />Mail: 690 (14%)<br />Adventure:
+      625 (12%)<br />Spiral Abyss: 600 (11%)<br />Quests: 570 (10%)<br />Other:
       9 (0%)<br />
     </td>
   </tr>
