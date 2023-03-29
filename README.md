@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>888</td>
+    <td>889</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -287,15 +287,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>65</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>13</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -303,32 +303,32 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>34</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+      Nahida (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Fischl (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+      Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+      Alhaitham (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Nilou (12)<br />
     </td>
   </tr>
   <tr>
@@ -339,51 +339,51 @@
         ,
         height="18"
       />
-      Alhaitham (47)<br />
+      Alhaitham (45)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (100925)<br />
+      Raiden Shogun (272826)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Alhaitham (108991)<br />
+      Nahida (243288)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Nahida (27)<br />
+      Yaoyao (34)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yae Miko (109)<br />
+      Yaoyao (90)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5744 (rate -25)</td>
+    <td>6355 (rate -17)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7178722 (rate -8)</td>
+    <td>7828945 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1680 (30%)<br />Events: 1560 (28%)<br />Mail: 690 (12%)<br />Adventure:
-      635 (11%)<br />Spiral Abyss: 600 (10%)<br />Quests: 570 (9%)<br />Other: 9
-      (0%)<br />
+      Daily Activity: 1740 (28%)<br />Events: 1560 (25%)<br />Spiral Abyss: 1150
+      (19%)<br />Mail: 690 (11%)<br />Adventure: 635 (9%)<br />Quests: 570
+      (8%)<br />Other: 10 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2385,7 +2385,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
+          <td>
+            2 x Gilded Dreams<br />1 x Gladiator's Finale<br />2 x Deepwood
+            Memories<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
