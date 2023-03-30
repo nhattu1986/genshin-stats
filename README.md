@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -314,16 +314,16 @@
         height="18"
       />
       Nahida (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6355 (rate -17)</td>
+    <td>6415 (rate -16)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7828945 (rate 0)</td>
+    <td>7891585 (rate 1)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1740 (28%)<br />Events: 1560 (25%)<br />Spiral Abyss: 1150
-      (19%)<br />Mail: 690 (11%)<br />Adventure: 635 (9%)<br />Quests: 570
+      Daily Activity: 1800 (29%)<br />Events: 1560 (25%)<br />Spiral Abyss: 1150
+      (18%)<br />Mail: 690 (11%)<br />Adventure: 635 (9%)<br />Quests: 570
       (8%)<br />Other: 10 (0%)<br />
     </td>
   </tr>
