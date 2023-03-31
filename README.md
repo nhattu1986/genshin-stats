@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>889</td>
+    <td>891</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -291,11 +291,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>21</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -303,7 +303,7 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>34</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -313,33 +313,33 @@
         ,
         height="18"
       />
-      Nahida (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (15)<br /><img
+      Nahida (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yaoyao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+      Yaoyao (21)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Nilou (12)<br />
+      Alhaitham (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Alhaitham (45)<br />
+      Nahida (50)<br />
     </td>
   </tr>
   <tr>
@@ -350,7 +350,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (272826)<br />
+      Raiden Shogun (303064)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
         ,
         height="18"
       />
-      Nahida (243288)<br />
+      Nahida (352790)<br />
     </td>
   </tr>
   <tr>
@@ -372,18 +372,18 @@
         ,
         height="18"
       />
-      Yaoyao (34)<br />
+      Yaoyao (51)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yaoyao (90)<br />
+      Nahida (146)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6415 (rate -16)</td>
+    <td>6625 (rate -13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7891585 (rate 1)</td>
+    <td>8026368 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1800 (29%)<br />Events: 1560 (25%)<br />Spiral Abyss: 1150
-      (18%)<br />Mail: 690 (11%)<br />Adventure: 635 (9%)<br />Quests: 570
+      Daily Activity: 1860 (29%)<br />Events: 1560 (24%)<br />Spiral Abyss: 1200
+      (19%)<br />Mail: 790 (11%)<br />Adventure: 635 (9%)<br />Quests: 570
       (8%)<br />Other: 10 (0%)<br />
     </td>
   </tr>
@@ -2688,8 +2688,8 @@
           <td>Artifacts</td>
           <td>
             1 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />1 x
-            Shimenawa's Reminiscence<br />1 x Wanderer's Troupe<br />1 x
-            Viridescent Venerer<br />
+            Shimenawa's Reminiscence<br />1 x Wanderer's Troupe<br />1 x Emblem
+            of Severed Fate<br />
           </td>
         </tr>
         <tr>
@@ -3283,10 +3283,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            3 x Viridescent Venerer<br />1 x Deepwood Memories<br />1 x Emblem
-            of Severed Fate<br />
-          </td>
+          <td>4 x Viridescent Venerer<br />1 x Deepwood Memories<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
