@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -309,16 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
       Nilou (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1540 (rate -77)</td>
+    <td>1600 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1382016 (rate -83)</td>
+    <td>1447119 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 720 (47%)<br />Spiral Abyss: 550 (36%)<br />Daily Activity: 240
-      (16%)<br />Mail: 20 (1%)<br />Adventure: 10 (0%)<br />Quests: 0 (0%)<br />Other:
+      Events: 720 (46%)<br />Spiral Abyss: 550 (35%)<br />Daily Activity: 300
+      (18%)<br />Mail: 20 (1%)<br />Adventure: 10 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
