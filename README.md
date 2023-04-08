@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>898</td>
+    <td>899</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      Nilou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1660 (rate -76)</td>
+    <td>1720 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1510830 (rate -81)</td>
+    <td>1624458 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 720 (44%)<br />Spiral Abyss: 550 (34%)<br />Daily Activity: 360
-      (21%)<br />Mail: 20 (1%)<br />Adventure: 10 (0%)<br />Quests: 0 (0%)<br />Other:
+      Events: 720 (42%)<br />Spiral Abyss: 550 (32%)<br />Daily Activity: 420
+      (25%)<br />Mail: 20 (1%)<br />Adventure: 10 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
