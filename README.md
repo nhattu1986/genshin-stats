@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>728</td>
+    <td>731</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>899</td>
+    <td>900</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>212</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2165</td>
+    <td>2173</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1412</td>
+    <td>1425</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>431</td>
+    <td>437</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>163</td>
+    <td>167</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>123</td>
+    <td>124</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -314,21 +314,21 @@
         height="18"
       />
       Nahida (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
       Nilou (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1720 (rate -75)</td>
+    <td>2136 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1624458 (rate -80)</td>
+    <td>2044012 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 720 (42%)<br />Spiral Abyss: 550 (32%)<br />Daily Activity: 420
-      (25%)<br />Mail: 20 (1%)<br />Adventure: 10 (0%)<br />Quests: 0 (0%)<br />Other:
+      Events: 840 (40%)<br />Spiral Abyss: 550 (26%)<br />Daily Activity: 480
+      (23%)<br />Adventure: 216 (10%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -2301,7 +2301,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
