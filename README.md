@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2136 (rate -69)</td>
+    <td>2196 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2044012 (rate -74)</td>
+    <td>2113819 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 840 (40%)<br />Spiral Abyss: 550 (26%)<br />Daily Activity: 480
-      (23%)<br />Adventure: 216 (10%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
+      Events: 840 (39%)<br />Spiral Abyss: 550 (26%)<br />Daily Activity: 540
+      (25%)<br />Adventure: 216 (9%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
