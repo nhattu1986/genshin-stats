@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>731</td>
+    <td>734</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>900</td>
+    <td>902</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2173</td>
+    <td>2197</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1425</td>
+    <td>1430</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>437</td>
+    <td>438</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>124</td>
+    <td>126</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>75.0%</td>
+          <td>77.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2196 (rate -68)</td>
+    <td>2364 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2113819 (rate -74)</td>
+    <td>2907836 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 840 (39%)<br />Spiral Abyss: 550 (26%)<br />Daily Activity: 540
-      (25%)<br />Adventure: 216 (9%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
+      Events: 840 (36%)<br />Daily Activity: 600 (26%)<br />Spiral Abyss: 550
+      (24%)<br />Adventure: 324 (13%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
