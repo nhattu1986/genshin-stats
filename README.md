@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>902</td>
+    <td>904</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2197</td>
+    <td>2199</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1430</td>
+    <td>1432</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
       Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      Nilou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2364 (rate -66)</td>
+    <td>2458 (rate -64)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2907836 (rate -64)</td>
+    <td>3078243 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 840 (36%)<br />Daily Activity: 600 (26%)<br />Spiral Abyss: 550
-      (24%)<br />Adventure: 324 (13%)<br />Quests: 30 (1%)<br />Mail: 20 (0%)<br />Other:
+      Events: 840 (35%)<br />Daily Activity: 660 (27%)<br />Spiral Abyss: 550
+      (23%)<br />Adventure: 338 (13%)<br />Mail: 40 (1%)<br />Quests: 30 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
