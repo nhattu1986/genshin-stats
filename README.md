@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,19 +31,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>734</td>
+    <td>756</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>904</td>
+    <td>905</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>286</td>
+    <td>304</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>214</td>
+    <td>229</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,27 +63,27 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2199</td>
+    <td>2239</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1432</td>
+    <td>1455</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>438</td>
+    <td>442</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>167</td>
+    <td>170</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>126</td>
+    <td>128</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>47</td>
+    <td>51</td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>77.0%</td>
+          <td>84.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
@@ -319,11 +324,6 @@
         height="18"
       />
       Nilou (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2458 (rate -64)</td>
+    <td>4178 (rate -40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3078243 (rate -62)</td>
+    <td>4034021 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 840 (35%)<br />Daily Activity: 660 (27%)<br />Spiral Abyss: 550
-      (23%)<br />Adventure: 338 (13%)<br />Mail: 40 (1%)<br />Quests: 30 (1%)<br />Other:
-      0 (0%)<br />
+      Events: 880 (22%)<br />Adventure: 828 (20%)<br />Daily Activity: 720
+      (18%)<br />Mail: 700 (16%)<br />Spiral Abyss: 550 (13%)<br />Quests: 470
+      (11%)<br />Other: 30 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2152,7 +2152,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2301,7 +2301,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
