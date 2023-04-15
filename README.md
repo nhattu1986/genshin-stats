@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>757</td>
+    <td>765</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>905</td>
+    <td>906</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>230</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2241</td>
+    <td>2289</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1456</td>
+    <td>1471</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>442</td>
+    <td>451</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>170</td>
+    <td>174</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>128</td>
+    <td>135</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>84.0%</td>
+          <td>89.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -324,11 +319,16 @@
         height="18"
       />
       Nilou (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4252 (rate -39)</td>
+    <td>5364 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4194238 (rate -48)</td>
+    <td>5192425 (rate -36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (21%)<br />Adventure: 842 (20%)<br />Daily Activity: 780
-      (19%)<br />Mail: 700 (17%)<br />Spiral Abyss: 550 (12%)<br />Quests: 470
-      (11%)<br />Other: 30 (0%)<br />
+      Adventure: 1293 (25%)<br />Events: 910 (17%)<br />Daily Activity: 840
+      (16%)<br />Mail: 700 (13%)<br />Spiral Abyss: 550 (10%)<br />Quests: 540
+      (10%)<br />Other: 531 (9%)<br />
     </td>
   </tr>
 </table>
@@ -4122,6 +4122,79 @@
     </td>
   </tr>
 </table>
+<h3>Kuki Shinobu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dull Blade</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Tighnari</h3>
 <table>
   <tr>
@@ -4178,79 +4251,6 @@
         <tr>
           <td>Name</td>
           <td>Hunter's Bow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kuki Shinobu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Dull Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
