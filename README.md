@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>765</td>
+    <td>771</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>906</td>
+    <td>907</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>243</td>
+    <td>250</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2289</td>
+    <td>2336</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1471</td>
+    <td>1480</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>451</td>
+    <td>454</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>135</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>89.0%</td>
+          <td>93.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1207</td>
+    <td>1208</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -324,11 +324,11 @@
         height="18"
       />
       Yaoyao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5364 (rate -23)</td>
+    <td>6043 (rate -13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5192425 (rate -36)</td>
+    <td>5859073 (rate -28)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1293 (25%)<br />Events: 910 (17%)<br />Daily Activity: 840
-      (16%)<br />Mail: 700 (13%)<br />Spiral Abyss: 550 (10%)<br />Quests: 540
-      (10%)<br />Other: 531 (9%)<br />
+      Adventure: 1632 (28%)<br />Events: 910 (16%)<br />Daily Activity: 900
+      (14%)<br />Mail: 730 (12%)<br />Quests: 690 (11%)<br />Other: 631 (10%)<br />Spiral
+      Abyss: 550 (9%)<br />
     </td>
   </tr>
 </table>
