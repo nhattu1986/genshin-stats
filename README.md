@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>771</td>
+    <td>772</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>907</td>
+    <td>908</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>250</td>
+    <td>253</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2336</td>
+    <td>2347</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1480</td>
+    <td>1482</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>454</td>
+    <td>456</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>175</td>
+    <td>176</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>140</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Yaoyao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6043 (rate -13)</td>
+    <td>6215 (rate -11)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5859073 (rate -28)</td>
+    <td>6061993 (rate -25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1632 (28%)<br />Events: 910 (16%)<br />Daily Activity: 900
-      (14%)<br />Mail: 730 (12%)<br />Quests: 690 (11%)<br />Other: 631 (10%)<br />Spiral
-      Abyss: 550 (9%)<br />
+      Adventure: 1714 (28%)<br />Daily Activity: 960 (16%)<br />Events: 910
+      (15%)<br />Mail: 730 (12%)<br />Quests: 720 (11%)<br />Other: 631 (10%)<br />Spiral
+      Abyss: 550 (8%)<br />
     </td>
   </tr>
 </table>
@@ -3976,6 +3976,79 @@
     </td>
   </tr>
 </table>
+<h3>Kuki Shinobu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dull Blade</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Dori</h3>
 <table>
   <tr>
@@ -4105,79 +4178,6 @@
         <tr>
           <td>Name</td>
           <td>Beginner's Protector</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kuki Shinobu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Dull Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
