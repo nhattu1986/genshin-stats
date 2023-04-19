@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>772</td>
+    <td>780</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>908</td>
+    <td>910</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>253</td>
+    <td>271</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2347</td>
+    <td>2396</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1482</td>
+    <td>1502</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>456</td>
+    <td>465</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>176</td>
+    <td>182</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>141</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>93.0%</td>
+          <td>100.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1208</td>
+    <td>1209</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -287,122 +287,65 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>67</td>
+    <td>68</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>19</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-1</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>35</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-        ,
-        height="18"
-      />
-      Yaoyao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (30)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (338538)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (266261)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (33)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (143)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6830 (rate -2)</td>
+    <td>7790 (rate 11)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6458525 (rate -20)</td>
+    <td>7313513 (rate -10)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2269 (34%)<br />Daily Activity: 1020 (15%)<br />Events: 910
-      (14%)<br />Mail: 730 (10%)<br />Quests: 720 (10%)<br />Other: 631 (9%)<br />Spiral
-      Abyss: 550 (8%)<br />
+      Adventure: 2649 (35%)<br />Daily Activity: 1080 (14%)<br />Spiral Abyss:
+      1050 (14%)<br />Events: 910 (11%)<br />Mail: 750 (9%)<br />Quests: 720
+      (9%)<br />Other: 631 (8%)<br />
     </td>
   </tr>
 </table>
