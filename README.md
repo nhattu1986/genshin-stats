@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -319,16 +319,16 @@
         height="18"
       />
       Nahida (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
         ,
         height="18"
       />
-      Yaoyao (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (10)<br />
+      Yaoyao (10)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7959 (rate 13)</td>
+    <td>8429 (rate 20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7512486 (rate -7)</td>
+    <td>7922364 (rate -2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2658 (34%)<br />Daily Activity: 1200 (16%)<br />Spiral Abyss:
-      1050 (14%)<br />Events: 910 (11%)<br />Mail: 790 (9%)<br />Quests: 720
-      (9%)<br />Other: 631 (7%)<br />
+      Adventure: 2658 (32%)<br />Events: 1300 (16%)<br />Daily Activity: 1260
+      (15%)<br />Spiral Abyss: 1050 (13%)<br />Mail: 790 (9%)<br />Quests: 720
+      (8%)<br />Other: 651 (7%)<br />
     </td>
   </tr>
 </table>
@@ -2605,7 +2605,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
