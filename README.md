@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>913</td>
+    <td>915</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1209</td>
+    <td>1212</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -324,11 +324,11 @@
         height="18"
       />
       Traveler (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      Yaoyao (10)<br />
+      Nilou (10)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8489 (rate 21)</td>
+    <td>8869 (rate 26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7977168 (rate -2)</td>
+    <td>8335397 (rate 2)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2658 (32%)<br />Daily Activity: 1320 (16%)<br />Events: 1300
-      (16%)<br />Spiral Abyss: 1050 (12%)<br />Mail: 790 (9%)<br />Quests: 720
-      (8%)<br />Other: 651 (7%)<br />
+      Adventure: 2658 (30%)<br />Daily Activity: 1380 (16%)<br />Events: 1300
+      (15%)<br />Spiral Abyss: 1050 (12%)<br />Other: 971 (11%)<br />Mail: 790
+      (8%)<br />Quests: 720 (8%)<br />
     </td>
   </tr>
 </table>
