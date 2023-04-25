@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
       />
       Traveler (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
         ,
         height="18"
       />
-      Nilou (10)<br />
+      Kuki Shinobu (10)<br />
     </td>
   </tr>
   <tr>
@@ -2418,6 +2418,82 @@
     </td>
   </tr>
 </table>
+<h3>Candace</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Candace.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Gilded Dreams<br />1 x Wanderer's Troupe<br />1 x Archaic
+            Petra<br />1 x Husk of Opulent Dreams<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Spine</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Qiqi</h3>
 <table>
   <tr>
@@ -2553,82 +2629,6 @@
         <tr>
           <td>Name</td>
           <td>Primordial Jade Winged-Spear</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Candace</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Candace.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Gilded Dreams<br />1 x Wanderer's Troupe<br />1 x Archaic
-            Petra<br />1 x Husk of Opulent Dreams<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
