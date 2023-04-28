@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>916</td>
+    <td>919</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Yaoyao (10)<br /><img
+      Xingqiu (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      Nilou (10)<br />
+      Nilou (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+        ,
+        height="18"
+      />
+      Kuki Shinobu (10)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9074 (rate 29)</td>
+    <td>9134 (rate 30)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8550932 (rate 4)</td>
+    <td>8631565 (rate 5)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2663 (30%)<br />Daily Activity: 1500 (17%)<br />Events: 1300
-      (15%)<br />Other: 1051 (12%)<br />Spiral Abyss: 1050 (11%)<br />Mail: 790
+      Adventure: 2663 (30%)<br />Daily Activity: 1560 (18%)<br />Events: 1300
+      (15%)<br />Other: 1051 (11%)<br />Spiral Abyss: 1050 (11%)<br />Mail: 790
       (8%)<br />Quests: 720 (7%)<br />
     </td>
   </tr>
