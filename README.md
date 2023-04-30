@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -309,21 +309,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nilou (10)<br /><img
+      Nahida (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        ,
+        height="18"
+      />
+      Yaoyao (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9238 (rate 32)</td>
+    <td>9302 (rate 33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8745818 (rate 7)</td>
+    <td>8871154 (rate 8)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2667 (29%)<br />Daily Activity: 1620 (18%)<br />Events: 1300
-      (15%)<br />Other: 1051 (12%)<br />Spiral Abyss: 1050 (11%)<br />Mail: 830
+      Adventure: 2671 (29%)<br />Daily Activity: 1680 (19%)<br />Events: 1300
+      (14%)<br />Other: 1051 (12%)<br />Spiral Abyss: 1050 (11%)<br />Mail: 830
       (8%)<br />Quests: 720 (7%)<br />
     </td>
   </tr>
@@ -2377,7 +2377,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2453,7 +2453,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -4305,7 +4305,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Friendship</td>
