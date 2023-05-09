@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>926</td>
+    <td>927</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2402</td>
+    <td>2405</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>935 (rate -90)</td>
+    <td>1001 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1130423 (rate -87)</td>
+    <td>1209182 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 610 (66%)<br />Daily Activity: 240 (26%)<br />Events: 40 (4%)<br />Adventure:
-      25 (2%)<br />Mail: 20 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 610 (61%)<br />Daily Activity: 300 (30%)<br />Events: 40 (4%)<br />Adventure:
+      31 (4%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
