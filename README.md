@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>783</td>
+    <td>784</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>927</td>
+    <td>929</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1504</td>
+    <td>1505</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1001 (rate -89)</td>
+    <td>1071 (rate -88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1209182 (rate -86)</td>
+    <td>1401747 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 610 (61%)<br />Daily Activity: 300 (30%)<br />Events: 40 (4%)<br />Adventure:
-      31 (4%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 610 (57%)<br />Daily Activity: 360 (34%)<br />Adventure: 41 (4%)<br />Events:
+      40 (4%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
