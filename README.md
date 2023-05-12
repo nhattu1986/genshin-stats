@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1151 (rate -87)</td>
+    <td>1251 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2035433 (rate -77)</td>
+    <td>2166490 (rate -75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 610 (53%)<br />Daily Activity: 420 (37%)<br />Adventure: 41 (4%)<br />Events:
-      40 (3%)<br />Mail: 40 (3%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 610 (49%)<br />Daily Activity: 480 (39%)<br />Mail: 80 (6%)<br />Adventure:
+      41 (3%)<br />Events: 40 (3%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
