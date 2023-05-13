@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>930</td>
+    <td>932</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1251 (rate -86)</td>
+    <td>1391 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2166490 (rate -75)</td>
+    <td>2319979 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 610 (49%)<br />Daily Activity: 480 (39%)<br />Mail: 80 (6%)<br />Adventure:
-      41 (3%)<br />Events: 40 (3%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 610 (44%)<br />Daily Activity: 600 (44%)<br />Mail: 100 (8%)<br />Adventure:
+      41 (2%)<br />Events: 40 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
