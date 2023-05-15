@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>932</td>
+    <td>934</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1214</td>
+    <td>1216</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1721 (rate -81)</td>
+    <td>2141 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2604572 (rate -70)</td>
+    <td>3080996 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 610 (36%)<br />Daily Activity: 600 (35%)<br />Mail: 430 (25%)<br />Adventure:
-      41 (2%)<br />Events: 40 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 970 (46%)<br />Daily Activity: 660 (31%)<br />Mail: 430 (21%)<br />Adventure:
+      41 (1%)<br />Events: 40 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
