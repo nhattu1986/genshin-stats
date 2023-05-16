@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1505</td>
+    <td>1506</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>465</td>
+    <td>466</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -283,125 +283,21 @@
     <td>23</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>68</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>22</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>12-1</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
-        ,
-        height="18"
-      />
-      Kuki Shinobu (10)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (50)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (244536)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      Nilou (108465)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (24)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (65)<br />
-    </td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2141 (rate -77)</td>
+    <td>2256 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3080996 (rate -65)</td>
+    <td>3243163 (rate -63)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 970 (46%)<br />Daily Activity: 660 (31%)<br />Mail: 430 (21%)<br />Adventure:
-      41 (1%)<br />Events: 40 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Other: 970 (43%)<br />Daily Activity: 720 (32%)<br />Mail: 460 (21%)<br />Adventure:
+      66 (3%)<br />Events: 40 (1%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
