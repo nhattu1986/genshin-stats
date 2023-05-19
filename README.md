@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -287,16 +287,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2510 (rate -73)</td>
+    <td>2590 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3512442 (rate -60)</td>
+    <td>3604191 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 970 (39%)<br />Daily Activity: 840 (34%)<br />Mail: 460 (19%)<br />Adventure:
+      Other: 970 (38%)<br />Daily Activity: 900 (35%)<br />Mail: 480 (19%)<br />Adventure:
       150 (6%)<br />Quests: 50 (1%)<br />Events: 40 (1%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
