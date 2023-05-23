@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>940</td>
+    <td>942</td>
   </tr>
   <tr>
     <td>Characters</td>
