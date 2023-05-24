@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,15 +31,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>786</td>
+    <td>787</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>942</td>
+    <td>943</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2407</td>
+    <td>2408</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1514</td>
+    <td>1515</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>468</td>
+    <td>469</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>182</td>
+    <td>183</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -287,18 +287,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3250 (rate -65)</td>
+    <td>4015 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4326940 (rate -51)</td>
+    <td>4501775 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1280 (40%)<br />Daily Activity: 1140 (36%)<br />Mail: 480 (15%)<br />Adventure:
-      150 (4%)<br />Other: 150 (4%)<br />Quests: 50 (1%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 1320 (33%)<br />Daily Activity: 1260 (32%)<br />Mail: 1080
+      (27%)<br />Adventure: 155 (4%)<br />Other: 150 (3%)<br />Quests: 50
+      (1%)<br />Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -317,7 +317,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/716792e9f2c833e4224afbb2c90e299f.png"
         />
       </p>
     </td>
@@ -390,7 +390,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/75f8dce47b1e59d583c6f4cac392dba3.png"
         />
       </p>
     </td>
@@ -463,7 +463,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/0900d0ad56989a68f1c5277fb07d7b92.png"
         />
       </p>
     </td>
@@ -536,7 +536,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/23065f0f0b44a2b02c0d4c86b4e21929.png"
         />
       </p>
     </td>
@@ -609,7 +609,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/b6b487170451919b0b5e0178f345539a.png"
         />
       </p>
     </td>
@@ -682,7 +682,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/e0513fd400d2680a015c6bac8bf97c64.png"
         />
       </p>
     </td>
@@ -757,7 +757,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/82611f858750f5ba54cccc5103f115ff.png"
         />
       </p>
     </td>
@@ -830,7 +830,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/59840b6981492b9678c1160dac43a66e.png"
         />
       </p>
     </td>
@@ -906,7 +906,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Kirin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/13d48dc71fb504330a4d27f0306fa4da.png"
         />
       </p>
     </td>
@@ -979,7 +979,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/b1dfb55d1364da4d546f7c414b5979e1.png"
         />
       </p>
     </td>
@@ -1055,7 +1055,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/ff34a27629ea0f246a1b08d0eecef948.png"
         />
       </p>
     </td>
@@ -1131,7 +1131,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/dabec1329e8ccb41a31eca101ef9414c.png"
         />
       </p>
     </td>
@@ -1204,7 +1204,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/0593347bc94738cf3eafc636e7cb15ae.png"
         />
       </p>
     </td>
@@ -1279,7 +1279,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/73d09c15e4a1a7e765a10cc3d542dfa5.png"
         />
       </p>
     </td>
@@ -1355,7 +1355,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/efe06a2e22606f4a9288b4c141c5403a.png"
         />
       </p>
     </td>
@@ -1428,7 +1428,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/20a45454166806a70cb772cb5ab307ae.png"
         />
       </p>
     </td>
@@ -1504,7 +1504,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/e3c3fd34be1e904f0ca15571e3609c8d.png"
         />
       </p>
     </td>
@@ -1580,7 +1580,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/44600759a4d4198af51240bb35adb24f.png"
         />
       </p>
     </td>
@@ -1655,7 +1655,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/7c09268d4d06f5ae012e5d630518c4c2.png"
         />
       </p>
     </td>
@@ -1728,7 +1728,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/305f6df6ec2f422e23b2b1d7170897cb.png"
         />
       </p>
     </td>
@@ -1801,7 +1801,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Santika.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/605cf5681926f930860abccd2acee730.png"
         />
       </p>
     </td>
@@ -1877,7 +1877,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/305f6df6ec2f422e23b2b1d7170897cb.png"
         />
       </p>
     </td>
@@ -1950,7 +1950,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/3183f58def514cc50565e1ac9a9b042a.png"
         />
       </p>
     </td>
@@ -2026,7 +2026,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/7c09268d4d06f5ae012e5d630518c4c2.png"
         />
       </p>
     </td>
@@ -2099,7 +2099,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/b7884741af25f1beb8581c84a4b1424a.png"
         />
       </p>
     </td>
@@ -2175,7 +2175,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/8fc3b06d3d141ed9bfe71cbe9921c84a.png"
         />
       </p>
     </td>
@@ -2251,7 +2251,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Ayus.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/2a54110b8badcc9199f4335e752ba61a.png"
         />
       </p>
     </td>
@@ -2327,7 +2327,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/ca80c4cb74f96605ecfe1dfeba93991f.png"
         />
       </p>
     </td>
@@ -2403,7 +2403,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/cfd5fa1dbb67666acb2db0ac13289077.png"
         />
       </p>
     </td>
@@ -2479,7 +2479,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/adad013a46b5455e570eed5c4ad4bedf.png"
         />
       </p>
     </td>
@@ -2555,7 +2555,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Arakalari.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/a3dfdac83cb7b01b31771adda1c16517.png"
         />
       </p>
     </td>
@@ -2628,7 +2628,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/9bf9eec253655e0ae16a8db6b8a3d51e.png"
         />
       </p>
     </td>
@@ -2704,7 +2704,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/dabec1329e8ccb41a31eca101ef9414c.png"
         />
       </p>
     </td>
@@ -2781,7 +2781,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fleurfair.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/6c0642a598d15404546724488ef9bd2b.png"
         />
       </p>
     </td>
@@ -2854,7 +2854,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/fc6027a1dc2234264c99049bbb417546.png"
         />
       </p>
     </td>
@@ -2930,7 +2930,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/d1e3f6d298a7b331ee4dc17293f26fa7.png"
         />
       </p>
     </td>
@@ -3003,7 +3003,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/da398e16474f88d4ddccdd74d5b42868.png"
         />
       </p>
     </td>
@@ -3076,7 +3076,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/7a70fc8e4427ee3237cf783fc64a478f.png"
         />
       </p>
     </td>
@@ -3152,7 +3152,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/7db1185f6e75923c8aa0d2535be6ba2b.png"
         />
       </p>
     </td>
@@ -3228,7 +3228,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/3096d5a8ca04f59ea6263abdc70a2b6b.png"
         />
       </p>
     </td>
@@ -3301,7 +3301,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/38fa46c4946bf49d05cc73787d984693.png"
         />
       </p>
     </td>
@@ -3374,7 +3374,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/3096d5a8ca04f59ea6263abdc70a2b6b.png"
         />
       </p>
     </td>
@@ -3447,7 +3447,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/da398e16474f88d4ddccdd74d5b42868.png"
         />
       </p>
     </td>
@@ -3520,7 +3520,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/3096d5a8ca04f59ea6263abdc70a2b6b.png"
         />
       </p>
     </td>
@@ -3593,7 +3593,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/ca80c4cb74f96605ecfe1dfeba93991f.png"
         />
       </p>
     </td>
@@ -3666,7 +3666,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/883552d1c8b45a860cc2b9e26beeba3e.png"
         />
       </p>
     </td>
@@ -3739,7 +3739,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/ee8f198ed7f4712956cab0b853030695.png"
         />
       </p>
     </td>
@@ -3815,7 +3815,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/d385eda213b78d9f42a4302e3d3d9e48.png"
         />
       </p>
     </td>
@@ -3891,7 +3891,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/883552d1c8b45a860cc2b9e26beeba3e.png"
         />
       </p>
     </td>
@@ -3964,7 +3964,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/a452060a8c475c916392a09f6fb08e86.png"
         />
       </p>
     </td>
@@ -4037,7 +4037,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/3096d5a8ca04f59ea6263abdc70a2b6b.png"
         />
       </p>
     </td>
@@ -4110,7 +4110,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/883552d1c8b45a860cc2b9e26beeba3e.png"
         />
       </p>
     </td>
@@ -4183,7 +4183,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u140pe/a452060a8c475c916392a09f6fb08e86.png"
         />
       </p>
     </td>
