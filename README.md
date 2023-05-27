@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>944</td>
+    <td>945</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2408</td>
+    <td>2409</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4165 (rate -55)</td>
+    <td>4285 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4694316 (rate -47)</td>
+    <td>4868955 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1320 (32%)<br />Daily Activity: 1320 (32%)<br />Mail: 1140
-      (28%)<br />Adventure: 184 (4%)<br />Other: 151 (3%)<br />Quests: 50
+      Daily Activity: 1440 (34%)<br />Events: 1320 (31%)<br />Mail: 1140
+      (27%)<br />Adventure: 184 (4%)<br />Other: 151 (3%)<br />Quests: 50
       (1%)<br />Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
