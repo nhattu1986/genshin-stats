@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -287,17 +287,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4790 (rate -48)</td>
+    <td>4830 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5462385 (rate -39)</td>
+    <td>5557534 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1660 (35%)<br />Daily Activity: 1520 (32%)<br />Mail: 1140
-      (24%)<br />Other: 231 (5%)<br />Adventure: 189 (3%)<br />Quests: 50
+      Events: 1660 (35%)<br />Daily Activity: 1560 (33%)<br />Mail: 1140
+      (24%)<br />Other: 231 (4%)<br />Adventure: 189 (3%)<br />Quests: 50
       (1%)<br />Spiral Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2555,7 +2555,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/c8bd2ee27c8e9c2bd9de0ea131541e36.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/afa6e4cf5fa7cba5054fa2b3014c4db5.png"
         />
       </p>
     </td>
@@ -2585,7 +2585,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>
+            1 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />3 x
+            Vourukasha's Glow<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2597,15 +2600,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Primordial Jade Cutter</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
