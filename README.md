@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>955</td>
+    <td>956</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -283,21 +283,69 @@
     <td>23</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>71</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>12-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>315 (rate -93)</td>
+    <td>995 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>624290 (rate -89)</td>
+    <td>1338409 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 280 (89%)<br />Mail: 20 (7%)<br />Adventure: 15 (4%)<br />Events:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 600 (61%)<br />Daily Activity: 360 (36%)<br />Mail: 20
+      (2%)<br />Adventure: 15 (1%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4349,7 +4397,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
